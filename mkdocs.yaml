@@ -1,9 +1,9 @@
 site_name: Isshiki修's Notebook
 site_author: Isshiki修
-site_url: 'https://note.isshikih.top'
+site_url: 'https://note.fantadana.top'
 
-repo_name: 'IsshikiHugh/notebook'
-repo_url: 'https://github.com/IsshikiHugh/notebook'
+repo_name: 'Fantadana/notebook'
+repo_url: 'https://github.com/Fantadana/notebook'
 edit_uri: blob/main/docs
 
 theme:
